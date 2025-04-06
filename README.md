@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hello!
+
+My name is Mariya and I'm Web Developress.
+
+- 🔭 I’m currently working on 🐎 web computer game.
+- 👯 I’m looking to collaborate on Vanilla JavaScript projects.
+- 🌈 I'm planning to develop a user-oriented social network with as less dependencies as possible.
+- 🌌 I aspire to build my own wide-scale technological ecosystem in the future. 
+- 📫 How to reach me: [e-mail](mailto:mariya.shushar@gmail.com), [Telegram](https://t.me/mashashr).
+
+[![Mariya's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariyashusharina&theme=vue&bg_color=00000000&show_icons=true&number_format=long&rank_icon=percentile&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**MariyaShusharina/MariyaShusharina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariyashusharina)](https://github.com/anuraghazra/github-readme-stats)
 -->
+
