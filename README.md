@@ -3,7 +3,7 @@
 My name is Mariya and I'm Web Developress.
 
 - 🔭 I’m currently working on 🐎 web computer game.
-- 👯 I’m looking to collaborate on Vanilla JavaScript projects.
+- 🤝 I’m looking to collaborate on Vanilla JavaScript projects.
 - 🌈 I'm planning to develop a user-oriented social network with as less dependencies as possible.
 - 🌌 I aspire to build my own wide-scale technological ecosystem in the future. 
 - 📫 How to reach me: [e-mail](mailto:mariya.shushar@gmail.com), [Telegram](https://t.me/mashashr).
